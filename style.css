@@ -4,8 +4,3 @@
     border: 5px red;
     border-radius: 2px;
 }
-
-.answer {
-    display: flex;
-    flex-wrap: wrap;
-}
