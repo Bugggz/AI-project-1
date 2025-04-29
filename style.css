@@ -1,3 +1,12 @@
-.box_header {
+.question {
     display: flex;
+    flex-wrap: wrap;
+    border: 2px grey;
+    border-radius: 2px;
+}
+
+.answer {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
 }
