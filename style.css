@@ -1,12 +1,11 @@
 .question {
     display: flex;
     flex-wrap: wrap;
-    border: 2px grey;
+    border: 5px red;
     border-radius: 2px;
 }
 
 .answer {
     display: flex;
     flex-wrap: wrap;
-    margin: 15px;
 }
