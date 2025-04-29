@@ -1,6 +1,7 @@
 .question {
     display: flex;
     flex-wrap: wrap;
-    border: 5px red;
-    border-radius: 2px;
+    border-color: red solid;
+    border-radius: 5px;
+    margin:0% 20% 0% 20%;
 }
